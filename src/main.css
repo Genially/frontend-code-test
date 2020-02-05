@@ -1,0 +1,44 @@
+body,
+html,
+#root {
+  background-color: #282c34;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.app {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.canva {
+  width: 1200px;
+  height: 675px;
+  background-color: aliceblue;
+}
+
+.box {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.toolbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+}
+
+.toolbar span {
+  color: white;
+}
