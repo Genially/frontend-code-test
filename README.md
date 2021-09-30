@@ -45,12 +45,18 @@ A good place to include all of this is modifying the README.md of the file.
 
 Send it to us however it suits you, but our preferred method is to get access to a **private fork of the repo**. This way, we can see historical changes, and a complete diff against the original repo on a PR. It's also a great way to write down feedback and discussion points for the interview afterwards.
 
+If you opt for a fork with limited access, see the contact list below for people you can give access to. Please always include Chema & Román, and then someone else (or all of them!).
+
 # Contact
 
 If you have any questions about the test, you can contact any of us:
 
-- Chema (chema@genial.ly)
-- Rafa (rafa@genial.ly)
-- Román (roman@genial.ly)
+- Chema (chema@genially.com)
+- Rafa (rafa@genially.com)
+- Emanuel (emanuel@genially.com)
+- Jesé (jese@genially.com)
+- Román (roman@genially.com)
+- Perico (perico@genially.com)
+- Julio (juboba@genially.com)
 
 Good Luck!
