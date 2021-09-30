@@ -39,7 +39,9 @@ When finished, the app should let the user:
 
 If you are unable to do some of the above, don't worry! But we would ask to at least explain what went wrong, how you would tackle the problem, or if you have no idea whatsoever 😃 
 
-A good place to include all of this is modifying the README.md of the file.
+Even if you manage to do everything, we also greatly appreciate comments on decisions you took, issues you faced or limitations you've left behind on purpose.
+
+A good place to include those comments is the README.md of the repo.
 
 # Delivery method
 
