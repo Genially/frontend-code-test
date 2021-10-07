@@ -1,6 +1,6 @@
 Welcome to this code test! :)
 
-The main objective of this technical excercise is for you to get a good grasp of what kind of problems we encounter on Genially. We wouldn't want you to find some nasty surprises if you decide to join us.
+The main objective of this technical excercise is for you to get a good grasp of what kind of problems we encounter on Genially. We wouldn't want you to find some nasty surprises if you decide to join us. Also, it's a good starting point to have a technical conversation during an interview. 
 
 # Technology included
 
@@ -31,23 +31,34 @@ When finished, the app should let the user:
 - Drag the boxes around using interact.js and using React refs.
   - Keep in mind you should be able to drag a box even if it's not selected when the dragging starts.
 - Changing a box's color.
-
-# Extra credit
-
-If you found the above too easy, or are feeling up for a bigger challenge, here are some extra tasks you could attempt:
-
 - Display a counter indicating how many boxes are selected.
 - Support selection, dragging and color changing for multiple boxes.
 - Save the state of the app locally and restore it when it loads.
 - Undo / Redo capabilities
   - **hint**: mobx-state-tree provides a middleware for this.
 
+If you are unable to do some of the above, don't worry! But we would ask to at least explain what went wrong, how you would tackle the problem, or if you have no idea whatsoever 😃 
+
+Even if you manage to do everything, we also greatly appreciate comments on decisions you took, issues you faced or limitations you've left behind on purpose.
+
+A good place to include those comments is the README.md of the repo.
+
+# Delivery method
+
+Send it to us however it suits you, but our preferred method is to get access to a **private fork of the repo**. This way, we can see historical changes, and a complete diff against the original repo on a PR. It's also a great way to write down feedback and discussion points for the interview afterwards.
+
+If you opt for a fork with limited access, see the contact list below for people you can give access to. Please always include Chema & Román, and then someone else (or all of them!).
+
 # Contact
 
 If you have any questions about the test, you can contact any of us:
 
-- Chema (chema@genial.ly)
-- Rafa (rafa@genial.ly)
-- Román (roman@genial.ly)
+- Chema (chema@genially.com)
+- Rafa (rafa@genially.com)
+- Emanuel (emanuel@genially.com)
+- Jesé (jese@genially.com)
+- Román (roman@genially.com)
+- Perico (perico@genially.com)
+- Julio (juboba@genially.com)
 
 Good Luck!
