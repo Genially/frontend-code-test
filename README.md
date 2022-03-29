@@ -58,7 +58,6 @@ If you have any questions about the test, you can contact any of us:
 - Emanuel (emanuel@genially.com)
 - Jesé (jese@genially.com)
 - Román (roman@genially.com)
-- Perico (perico@genially.com)
 - Julio (juboba@genially.com)
 
 Good Luck!
