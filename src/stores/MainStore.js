@@ -1,4 +1,4 @@
-import { types } from 'mobx-state-tree';
+import { applySnapshot, onSnapshot, types } from 'mobx-state-tree';
 import { TimeTraveller } from 'mst-middlewares';
 import uuid from 'uuid/v4';
 
@@ -29,13 +29,21 @@ const MainStore = types
 
 const store = MainStore.create();
 
-const box1 = BoxModel.create({
-  id: uuid(),
-  color: getRandomColor(),
-  left: 0,
-  top: 0,
+onSnapshot(store, _snapshot => {
+  const snapshot = { ..._snapshot };
+  localStorage.setItem('stored', JSON.stringify(snapshot));
 });
-
-store.addBox(box1);
+const persistedData = localStorage.getItem('stored');
+if (persistedData?.length) {
+  applySnapshot(store, JSON.parse(persistedData));
+} else {
+  const box1 = BoxModel.create({
+    id: uuid(),
+    color: getRandomColor(),
+    left: 0,
+    top: 0,
+  });
+  store.addBox(box1);
+}
 
 export default store;
