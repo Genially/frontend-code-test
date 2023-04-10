@@ -53,7 +53,7 @@ If you opt for a fork with limited access, see the contact list below for people
 
 If you have any questions about the test, you can contact any of us:
 
-- Chema (chema@genially.com)
+- Chema (<em>Github User [@chemitaxis](https://github.com/chemitaxis)</em> / chema@genially.com)
 - Rafa (rafa@genially.com)
 - Emanuel (emanuel@genially.com)
 - Jesé (jese@genially.com)
